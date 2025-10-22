@@ -1,4 +1,14 @@
 # Customer Segmentation using RFM Analysis 🛍️📊
+
+![Python](https://img.shields.io/badge/Python-3.10-blue)
+![Pandas](https://img.shields.io/badge/Data-Pandas-yellow)
+![NumPy](https://img.shields.io/badge/Library-NumPy-lightblue)
+![Scikit-learn](https://img.shields.io/badge/ML-Scikit--learn-green)
+![Matplotlib](https://img.shields.io/badge/Visualization-Matplotlib-red)
+![Seaborn](https://img.shields.io/badge/Visualization-Seaborn-orange)
+![Jupyter](https://img.shields.io/badge/IDE-Jupyter%20Notebook-purple)
+![Clustering](https://img.shields.io/badge/Model-KMeans-brown)
+
 📅 Date: Oct 2024
 👤 Authors: Nishanth Manoharan, Parth Saraykar, Rishik Ganta  
 🛠️ Tech Stack: Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn), Jupyter Notebook  
